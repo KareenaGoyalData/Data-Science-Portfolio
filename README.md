@@ -74,5 +74,5 @@ This portfolio is intended for **viewing purposes by recruiters, hiring managers
 ---
 
 ## 📬 Contact
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/kareena-goyal](https://www.linkedin.com)  
+- Email: kareenagoyal13@outlook.com  
+- LinkedIn: [www.linkedin.com/in/kareena-goyal-2b7a721a8]  
