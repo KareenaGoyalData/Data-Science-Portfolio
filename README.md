@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 # Kareena Goyal – Product/Data Analyst Portfolio  
-*Focus: Fashion, Beauty, Hair, and Entertainment Analytics*  
+ 
 
 ---
 
