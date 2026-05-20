@@ -23,19 +23,6 @@ in Summer 2026.
 
 ---
 
-## In Progress
-
-### 2. Beauty Product Sales Analysis
-**Goal:** Identify top-selling products, seasonal trends, and customer preferences.  
-**Tools:** Python, Excel  
-*Coming soon*
-
-### 3. Customer Segmentation
-**Goal:** Segment customers by behavior, purchase history, and loyalty.  
-**Tools:** Python, SQL  
-*Coming soon*
-
----
 
 ## Tools & Technologies
 - **Languages:** Python, SQL, C, C++, HTML, Java
